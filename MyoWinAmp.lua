@@ -1,4 +1,4 @@
--- WinAmp gestire control with Myo
+-- WinAmp gesture control with Myo
 -- Supported gestures:
 --   Fist = play
 --   FingersSpread = pause / play
